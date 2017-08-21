@@ -1,0 +1,19 @@
+{
+  "name": "express-portfolio-mine",
+  "version": "1.0.0",
+  "description": "My Portfolio using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljgut/express-portfolio-mine.git"
+  },
+  "author": "Michael Gutleber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljgut/express-portfolio-mine/issues"
+  },
+  "homepage": "https://github.com/michaeljgut/express-portfolio-mine#readme"
+}
