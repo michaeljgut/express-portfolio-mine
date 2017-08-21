@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaeljgut/express-portfolio-mine/issues"
   },
-  "homepage": "https://github.com/michaeljgut/express-portfolio-mine#readme"
+  "homepage": "https://github.com/michaeljgut/express-portfolio-mine#readme",
+  "devDependencies": {
+    "express": "^4.15.4"
+  }
 }
